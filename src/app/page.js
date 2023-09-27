@@ -35,12 +35,19 @@ export default function Home() {
             <button className='mt-6'>see more..</button>
           </div>
 
-          <div className="flex-grow flex justify-end relative">
-        <div className="absolute bottom-0 right-0 p-24 bg-opacity-10 backdrop-blur-md bg-white text-black rounded-lg">
+          <div className="flex-grow flex justify-end relative mb-5">
+        <div className="absolute bottom-0 right-0 p-20 bg-opacity-10 backdrop-blur-md bg-white text-black rounded-lg">
           <div className="text-lg font-bold">50+ Years of Legacy</div>
           <div className="text-lg">Events</div>
           <div className="text-lg">10,000+ Participants</div>
           <div className="text-lg">Prize money</div>
+        </div>
+      </div>
+
+
+      <div className="flex-grow flex justify-end relative">
+        <div className="absolute bottom-[-1] right-0 p-4 bg-opacity-10 backdrop-blur-md bg-white text-black rounded-lg">
+          <div className="text-base font-bold mb-1">50+ Years of Legacy</div>
         </div>
       </div>
     </>
