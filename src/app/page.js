@@ -49,7 +49,7 @@ export default function Home() {
         <div className='flex justify-start'>
           <div className='pt-44 ml-7 md:ml-14 font-montserrat text-white'>
           <h1 className='text-5xl font-bold'>GUJARAT&apos;S LARGEST <br></br> TECHNICAL FESTIVAL</h1>
-            <p className='text-sm'>"Projections, Gujarat&apos;s largest annual tech fest hosted by Parul University, boasts an 18+ <br />year legacy. With over 10,000 participants and 45,000+ attendees, it offers a platform <br />for tech enthusiasts to showcase their talent across various domains. This year&apos;s theme,<br /> &ldquo;Tech Marvels,&rdquo; focuses on practical advancements inspired by the Marvel Cinematic <br /> Universe. Join us on February 16th and 17th for 50+ technical and non-technical events,<br /> along with 20+ workshops and lectures by tech industry luminaries." </p>
+            <p className='text-sm'>&quot;Projections, Gujarat&apos;s largest annual tech fest hosted by Parul University, boasts an 18+ <br />year legacy. With over 10,000 participants and 45,000+ attendees, it offers a platform <br />for tech enthusiasts to showcase their talent across various domains. This year&apos;s theme,<br /> &ldquo;Tech Marvels,&rdquo; focuses on practical advancements inspired by the Marvel Cinematic <br /> Universe. Join us on February 16th and 17th for 50+ technical and non-technical events,<br /> along with 20+ workshops and lectures by tech industry luminaries.&quot; </p>
             <button className='mt-6 underline'>See more..
 
             </button>
