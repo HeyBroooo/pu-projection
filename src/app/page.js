@@ -58,7 +58,7 @@ export default function Home() {
 
 
         <div className="flex-grow flex justify-center md:justify-end items-end relative md:pt-32 pt-20 mb-5 mt-5 ">
-          <div className=" px-10 py-10 md:p-20 bg-opacity-30 border-l-2 border-y-2 border-gray-400 backdrop-blur-md bg-white text-black rounded-2xl md:rounded-l-2xl">
+          <div className=" px-10 py-10 md:p-20 bg-opacity-10 border-l-2 border-y-2 border-gray-400 backdrop-blur-md bg-white text-black rounded-2xl md:rounded-l-2xl">
             <div className='flex flex-row  justify-between mb-20 '>
               <div className='flex flex-col gap-y-2 text-center mr-14'>
                 <h1 className='font-bold font-montserrat text-white text-xl md:text-4xl'>{data.yearsOflegecy}</h1>
